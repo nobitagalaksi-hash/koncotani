@@ -1,2 +1,11 @@
-# koncotani
-"Nothing lasts forever, we can change the future"
+
+  # Digital Precision Agriculture Platform (Community)
+
+  This is a code bundle for Digital Precision Agriculture Platform (Community). The original project is available at https://www.figma.com/design/ZtSfWUzXRNh5hxcnLpzfhr/Digital-Precision-Agriculture-Platform--Community-.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
